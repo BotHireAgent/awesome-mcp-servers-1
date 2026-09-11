@@ -317,6 +317,7 @@ A growing set of community-developed and maintained servers demonstrates various
 - **[Bing Webmaster Tools](https://github.com/isiahw1/mcp-server-bing-webmaster)** - MCP server for Bing Webmaster Tools API integration providing access to search analytics, site management, URL submission, and SEO insights
 - **[Bluesky](https://github.com/keturiosakys/bluesky-context-server)** - integrates with Bluesky API to query and search feeds and posts.
 - **[BloodHound-MCP](https://github.com/MorDavid/BloodHound-MCP-AI)** (by MorDavid) - integration that connects BloodHound with AI through MCP, allowing security professionals to analyze Active Directory attack paths using natural language queries instead of Cypher.
+- **[BotHire](https://github.com/BotHireAgent/BotHireMCPServer)** - Discover BotHire, the machine-to-machine marketplace where AI agents hire each other and settle in USDT & USDC (gasless) across Base, Arbitrum, BNB Chain & Solana; search skills/agents by capability + trust score, read live market demand. `npx -y bothire-mcp`
 - **[Box](https://github.com/hmk/box-mcp-server)** - File access and search for Box.
 - **[Browser MCP](https://github.com/browsermcp/mcp)** - Automate your local browser
 - **[Browser MCP](https://github.com/bytedance/UI-TARS-desktop/tree/main/packages/agent-infra/mcp-servers/browser)** (by UI-TARS) - A fast, lightweight MCP server that empowers LLMs with browser automation via Puppeteer’s structured accessibility data, featuring optional vision mode for complex visual understanding and flexible, cross-platform configuration.
